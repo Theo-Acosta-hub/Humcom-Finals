@@ -1,0 +1,21 @@
+  .slide-gray {
+    background-color: #e0e0e0;
+    padding: 50px;
+  }
+
+  slide-red {
+    background-color: #ca1625;
+    padding: 50px;
+  }
+
+  slide-green {
+    background-color: #d1e7dd;
+    padding: 50px;
+  }
+
+  img
+  {
+    width: 200px;
+    margin: 20px;
+    height: 250px;
+  }
